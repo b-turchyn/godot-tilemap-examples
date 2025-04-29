@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="Tilemap Examples (Before)"
+config/tags=PackedStringArray("btplaysgames")
 run/main_scene="res://scenes/map/square_tiles.tscn"
 config/features=PackedStringArray("4.4", "GL Compatibility")
 config/icon="res://assets/icon.png"
